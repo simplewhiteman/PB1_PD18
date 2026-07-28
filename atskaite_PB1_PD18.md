@@ -86,7 +86,7 @@
 * Pēc labojuma CI kļūst zaļš.  
 * Tiek saprasta automatizētas pārbaudes nozīme.  
 - Ekrānšāviņš (ja nepieciešams):  
-
+![Screnshot_3](Pielikumi\attels_3.png)  
 
 ---
 
