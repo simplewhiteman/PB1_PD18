@@ -73,7 +73,7 @@
 * Pēc git push GitHub Actions sadaļā redzams CI izpildes process.  
 * Ja tests ir korekts, CI statuss ir zaļš.  
 - Ekrānšāviņš (ja nepieciešams):  
-
+![Screnshot_2](Pielikumi\attels_2.png)  
 
 ---
 
